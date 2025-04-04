@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: 24px;
+    margin-top: 50px;
+}
+
+.field {
+    background: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    min-width: 60px;
+}
